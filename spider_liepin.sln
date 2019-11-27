@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "spider_liepin", "spider_liepin.pyproj", "{F1F9DC97-BBA8-48C2-81F0-2D427559086F}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "spider_liepin", "Spider_liepin.pyproj", "{F1F9DC97-BBA8-48C2-81F0-2D427559086F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
